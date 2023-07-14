@@ -1,13 +1,6 @@
-<h1 align="center">
-    <img src="./assets/profile_background.gif" align="center" width="500">
-</h1>
-
 ## 👨‍💼 Profiles
 
 &emsp;
-<a href="https://www.linkedin.com/in/manasbiparajuli/">
-![LinkedIn](https://img.shields.io/badge/manasbiparajuli-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
-</a>
 <a href="https://github.com/manasbiparajuli">
 ![GitHub](https://img.shields.io/github/followers/manasbiparajuli?label=manasbiparajuli&style=social)
 </a>
